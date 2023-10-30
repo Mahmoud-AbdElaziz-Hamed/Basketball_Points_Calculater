@@ -106,7 +106,7 @@ class _BasketballPointsState extends State<BasketballPoints> {
               Column(
                 children: [
                   const Text(
-                    "Team A",
+                    "Team B",
                     style: TextStyle(fontSize: 32),
                   ),
                   Text(
